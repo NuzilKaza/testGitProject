@@ -4,6 +4,6 @@ function hello() {
 }
 
 function bye() {
-    var p = document.getElementsByTagName('p')[0];
+    var p = document.getElementsByTagName('p')[1];
     p.innerHTML = 'Bye';
 }
