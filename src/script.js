@@ -3,6 +3,8 @@ function hello() {
     p.innerHTML = 'Hello';
 }
 
+//do smth else
+
 function bye() {
     var p = document.getElementsByTagName('p')[0];
     p.innerHTML = 'Bye';
